@@ -1,0 +1,42 @@
+# === Maven build ===
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# === Java class files ===
+*.class
+
+# === DLLs and executables ===
+*.dll
+*.exe
+
+# === Images ===
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# === Test files and reports ===
+*.log
+*.tmp
+*.out
+*.err
+*.swp
+test-output/
+surefire-reports/
+*.iml
+
+# === Eclipse/IDE files ===
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# === OS-specific files ===
+.DS_Store
+Thumbs.db
